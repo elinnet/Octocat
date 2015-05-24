@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone clones a repository in a new directory.  It not only includes text but the entire history of the project
